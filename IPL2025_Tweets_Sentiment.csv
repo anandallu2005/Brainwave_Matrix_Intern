@@ -1,0 +1,6 @@
+Date,Tweet,Clean_Tweet,Polarity,Sentiment
+2025-05-01,CSK wins again! What a finish! #IPL2025,csk wins again what a finish,0.8,Positive
+2025-05-02,Disappointing performance by MI. #IPL2025,disappointing performance by mi,-0.5,Negative
+2025-05-02,Neutral game. Nothing special. #IPL2025,neutral game nothing special,0.0,Neutral
+2025-05-03,Great match today! Loved it. #IPL2025,great match today loved it,0.7,Positive
+2025-05-04,Not impressed with umpiring. #IPL2025,not impressed with umpiring,-0.4,Negative
